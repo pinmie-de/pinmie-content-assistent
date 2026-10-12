@@ -1,0 +1,530 @@
+{
+ "version": "2026-10",
+ "hinweis": "Vorlagen zum Anpassen, nie wörtlich übernehmen. Jeder Einstieg braucht eine echte Situation aus der eigenen Firma. Personennamen sind Platzhalter.",
+ "formate": {
+  "pov": "POV aus dem Arbeitsalltag",
+  "typ": "Wir kennen alle jemanden, der …",
+  "mitrede": "Mitredefrage ohne falsche Antwort",
+  "fehler": "Fehler oder Gefahr zeigen",
+  "trend": "Trend mit der eigenen Belegschaft",
+  "meinung": "Meinung zur Branche",
+  "figur": "Fester Kollege als wiederkehrende Figur",
+  "test": "Werkzeug oder Material im Härtetest"
+ },
+ "branchen": {
+  "handwerk_bau": {
+   "name": "Handwerk und Bau (Dach, Zimmerei, Elektro, SHK, Maler, Fliesen, Tischlerei, Garten, Bau)",
+   "einstiege": {
+    "pov": [
+     {
+      "text_im_bild": "POV: Der Kunde fragt, ob du kurz mal eben was anschauen kannst",
+      "szene": "Kollege steht mit vollem Werkzeugkoffer da, Blick in die Kamera, langes Ausatmen"
+     },
+     {
+      "text_im_bild": "POV: Alles ist vorbereitet, nur das eine Teil fehlt noch",
+      "szene": "Kollege sitzt auf dem Eimer und dreht Däumchen, Uhr im Bild"
+     },
+     {
+      "text_im_bild": "POV: Du kommst morgens auf die Baustelle und der Nachbar hat schon Kaffee gemacht",
+      "szene": "Kollege bekommt am Zaun eine Tasse gereicht"
+     }
+    ],
+    "typ": [
+     {
+      "text_im_bild": "Wir kennen alle einen Kollegen, der nach dem Feierabend noch zehn Minuten aufräumt",
+      "szene": "Kollege fegt, während alle anderen schon im Auto sitzen"
+     },
+     {
+      "text_im_bild": "Jede Baustelle hat einen, der zu jedem Werkzeug eine Geschichte erzählt",
+      "szene": "Kollege hält einen alten Hammer hoch und redet ohne Ton"
+     }
+    ],
+    "mitrede": [
+     {
+      "text_im_bild": "Wie heißt dieses Ding bei euch? Falsche Antworten sind ausdrücklich erlaubt.",
+      "szene": "Werkzeug in Nahaufnahme, langsam gedreht"
+     },
+     {
+      "text_im_bild": "Jeder nennt es anders. Wie sagt ihr dazu?",
+      "szene": "Gerät liegt auf der Werkbank, Hand zeigt darauf"
+     }
+    ],
+    "fehler": [
+     {
+      "text_im_bild": "Was ist hier falsch gelaufen? Schreibt es in die Kommentare.",
+      "szene": "Detail eines Fehlers in Nahaufnahme, ohne Adresse oder Kunden"
+     },
+     {
+      "text_im_bild": "Das sehen wir bei fast jeder Sanierung, und es wird richtig teuer.",
+      "szene": "Schaden zeigen, dann wie es richtig aussieht"
+     }
+    ],
+    "trend": [
+     {
+      "text_im_bild": "Unser dienstältester Kollege zeigt euch heute die Firma.",
+      "szene": "Älterer Kollege führt mit Stock als Mikrofon durch die Halle"
+     },
+     {
+      "text_im_bild": "Wir haben den Azubi gefragt, wie er den Meister beschreiben würde.",
+      "szene": "Azubi antwortet, Schnitt auf den Meister mit ernstem Blick"
+     }
+    ],
+    "meinung": [
+     {
+      "text_im_bild": "Handwerk ist keine zweite Wahl, und das sollten wir viel öfter sagen.",
+      "szene": "Ruhige Aufnahme vom Team bei der Arbeit, Sprechtext darüber"
+     },
+     {
+      "text_im_bild": "Wir finden, dass Azubis vom ersten Tag an richtig mitarbeiten sollten.",
+      "szene": "Azubi arbeitet, Meister erzählt aus dem Off"
+     }
+    ],
+    "figur": [
+     {
+      "text_im_bild": "Lena nimmt euch heute mit auf ihre erste Baustelle als Gesellin.",
+      "szene": "Selfie-Aufnahme beim Einsteigen ins Firmenauto"
+     },
+     {
+      "text_im_bild": "Ihr habt gefragt, warum Tom immer singt. Hier ist die Antwort.",
+      "szene": "Kollege singt bei der Arbeit, Antwort im Bild"
+     }
+    ],
+    "test": [
+     {
+      "text_im_bild": "Geht diese Schraube wirklich ohne Vorbohren durch Vollholz?",
+      "szene": "Schraube geht in Vollholz, in Echtzeit"
+     },
+     {
+      "text_im_bild": "Wir haben getestet, wie viel diese Dübel wirklich halten.",
+      "szene": "Gewicht wird angehängt, Schnitt auf das Ergebnis"
+     }
+    ]
+   }
+  },
+  "industrie_produktion": {
+   "name": "Industrie, Maschinenbau, Stahlbau, Produktion",
+   "einstiege": {
+    "pov": [
+     {
+      "text_im_bild": "POV: Die Maschine läuft endlich, und jemand fragt, ob man sie kurz ausmachen kann",
+      "szene": "Bediener schaut langsam zur Kamera"
+     },
+     {
+      "text_im_bild": "POV: Du erklärst zum zwanzigsten Mal am Tag, was wir eigentlich herstellen",
+      "szene": "Kollege am Messestand, freundlich, leicht erschöpft"
+     }
+    ],
+    "typ": [
+     {
+      "text_im_bild": "Wir kennen alle jemanden, der jede Maschine am Geräusch erkennt",
+      "szene": "Kollege legt das Ohr an die Maschine und nickt"
+     },
+     {
+      "text_im_bild": "In jeder Halle gibt es einen, der sein Werkzeug niemals verleiht",
+      "szene": "Kollege schließt seinen Werkzeugwagen ab"
+     }
+    ],
+    "mitrede": [
+     {
+      "text_im_bild": "Wie heißt dieses Teil bei euch in der Firma?",
+      "szene": "Bauteil auf der Hand, langsam gedreht"
+     },
+     {
+      "text_im_bild": "Was glaubt ihr, wofür dieses Teil später gebraucht wird?",
+      "szene": "Teil kommt aus der Maschine, Auflösung im Kommentar"
+     }
+    ],
+    "fehler": [
+     {
+      "text_im_bild": "So sieht eine Schweißnaht aus, wenn jemand behauptet, er kann das längst.",
+      "szene": "Kollege bricht die Heftnaht mit der Hand auseinander"
+     },
+     {
+      "text_im_bild": "Diesen Fehler sehen wir bei Zeichnungen fast jede Woche.",
+      "szene": "Zeichnung mit markierter Stelle, ohne Kundendaten"
+     }
+    ],
+    "trend": [
+     {
+      "text_im_bild": "Unsere Ausbilder hören sich eure Sprüche aus der Berufsschule an, und keiner bleibt ernst.",
+      "szene": "Ausbilder liest Sprüche vor und reagiert"
+     },
+     {
+      "text_im_bild": "Wir haben unsere Schichtleiter gefragt, was sie mit 16 gern gewusst hätten.",
+      "szene": "Mehrere kurze Antworten hintereinander"
+     }
+    ],
+    "meinung": [
+     {
+      "text_im_bild": "Ihr denkt, Industrie ist laut, dreckig und langweilig? Dann schaut euch mal unsere Halle an.",
+      "szene": "Halle, Team, Produkt, Sprechtext von der Geschäftsführung"
+     },
+     {
+      "text_im_bild": "Ein guter Facharbeiter ist bei uns genauso wichtig wie ein Ingenieur.",
+      "szene": "Facharbeiter und Ingenieur an derselben Maschine"
+     }
+    ],
+    "figur": [
+     {
+      "text_im_bild": "Azubi Jonas zeigt euch, was er im ersten Jahr schon alles darf.",
+      "szene": "Jonas an verschiedenen Stationen, kurze Szenen"
+     },
+     {
+      "text_im_bild": "Ihr habt gefragt, ob man in der Nachtschicht wirklich wach bleibt, und unsere Schichtleiterin antwortet.",
+      "szene": "Kommentar im Bild, Antwort direkt in der Halle"
+     }
+    ],
+    "test": [
+     {
+      "text_im_bild": "Wir haben die Belastungsgrenze getestet. Wer hätte das gedacht?",
+      "szene": "Prüfstand, Kraftanzeige, Moment des Nachgebens"
+     },
+     {
+      "text_im_bild": "Das passiert, wenn man Stahl mit diesem Laser schneidet.",
+      "szene": "Nahaufnahme Schnitt, Funken, fertiges Teil"
+     }
+    ]
+   }
+  },
+  "logistik_kfz": {
+   "name": "Logistik, Spedition, Autohaus, Werkstatt",
+   "einstiege": {
+    "pov": [
+     {
+      "text_im_bild": "POV: Du wartest auf die Teile, und der Kunde ruft zum dritten Mal an",
+      "szene": "Mechaniker unter dem Auto, Handy klingelt"
+     },
+     {
+      "text_im_bild": "POV: Die Rampe ist frei, aber der Lkw steht noch im Stau",
+      "szene": "Lagerist schaut auf die Uhr, dann auf die leere Rampe"
+     }
+    ],
+    "typ": [
+     {
+      "text_im_bild": "Wir kennen alle einen Fahrer, der jede Raststätte nach Kaffee bewerten kann",
+      "szene": "Fahrer probiert Kaffee und zeigt Daumen hoch oder runter"
+     },
+     {
+      "text_im_bild": "Jede Werkstatt hat einen, der jedes Auto am Motorgeräusch erkennt",
+      "szene": "Kollege dreht sich mit geschlossenen Augen um"
+     }
+    ],
+    "mitrede": [
+     {
+      "text_im_bild": "Wie nennt ihr dieses Ding im Lager?",
+      "szene": "Ameise, Hubwagen oder Etikettiergerät in Nahaufnahme"
+     },
+     {
+      "text_im_bild": "Welches Geräusch macht euer Auto, wenn es zu uns muss? Schreibt es mal auf.",
+      "szene": "Mechaniker horcht am Motor"
+     }
+    ],
+    "fehler": [
+     {
+      "text_im_bild": "Was ist an dieser Ladung falsch? Wer es findet, darf mitfahren.",
+      "szene": "Falsch gesicherte Ladung, dann richtig gesichert"
+     },
+     {
+      "text_im_bild": "Dieses Warnlicht ignorieren viele, und das wird teuer.",
+      "szene": "Armaturenbrett mit Warnlicht, kurze Erklärung"
+     }
+    ],
+    "trend": [
+     {
+      "text_im_bild": "Unsere Disponenten spielen nach, wie ein ganz normaler Montag läuft.",
+      "szene": "Drei Telefone klingeln gleichzeitig"
+     },
+     {
+      "text_im_bild": "Unser Seniorchef liest eure Sprüche über Autohäuser vor und muss selbst lachen.",
+      "szene": "Seniorchef liest vor und schmunzelt"
+     }
+    ],
+    "meinung": [
+     {
+      "text_im_bild": "Ohne Fahrer bleibt jedes Regal leer, und das vergessen viele.",
+      "szene": "Fahrer bei Nacht an der Rampe, ruhiger Sprechtext"
+     },
+     {
+      "text_im_bild": "Bei den Dieselpreisen fragen wir uns, wer das noch bezahlen soll.",
+      "szene": "Zapfsäule, Rechnung, kurze Rechnung im Bild"
+     }
+    ],
+    "figur": [
+     {
+      "text_im_bild": "Kai nimmt euch mit auf seine Nachtschicht.",
+      "szene": "Kai startet den Lkw, Selfie-Aufnahme"
+     },
+     {
+      "text_im_bild": "Ihr fragt, ob die Inspektion wirklich nötig ist? Unsere Serviceberaterin sagt es euch ehrlich.",
+      "szene": "Frage aus den Kommentaren, Antwort am Tresen"
+     }
+    ],
+    "test": [
+     {
+      "text_im_bild": "Wie viele Paletten passen wirklich in diesen Lkw?",
+      "szene": "Zeitraffer beim Beladen, Zähler im Bild"
+     },
+     {
+      "text_im_bild": "Wir haben gemessen, wie viel in den Kofferraum wirklich reinpasst.",
+      "szene": "Kisten werden eingeladen, Ergebnis im Bild"
+     }
+    ]
+   }
+  },
+  "dienstleistung_buero": {
+   "name": "Steuerberatung, Versicherung, Hausverwaltung, Makler, Gebäudereinigung, Büro",
+   "einstiege": {
+    "pov": [
+     {
+      "text_im_bild": "POV: Es ist der letzte Tag vor der Frist, und das Postfach geht auf",
+      "szene": "Kollegin schaut auf den Bildschirm, langsamer Zoom"
+     },
+     {
+      "text_im_bild": "POV: Der Mandant bringt die Belege in einem Schuhkarton",
+      "szene": "Schuhkarton wird auf den Schreibtisch gestellt"
+     }
+    ],
+    "typ": [
+     {
+      "text_im_bild": "Wir kennen alle jemanden, der jede Mail mit freundlichen Grüßen auf drei Zeilen beendet",
+      "szene": "Kollege tippt sehr sorgfältig"
+     },
+     {
+      "text_im_bild": "Jedes Büro hat eine Person, die weiß, wo wirklich alles liegt",
+      "szene": "Kollegin zieht zielsicher einen Ordner aus dem Regal"
+     }
+    ],
+    "mitrede": [
+     {
+      "text_im_bild": "Wie heißt dieser Ordner bei euch? Bei uns hat er drei Namen.",
+      "szene": "Ordner mit Aufschrift wird hochgehalten"
+     },
+     {
+      "text_im_bild": "Was ist das Seltsamste, das ihr je als Beleg eingereicht habt?",
+      "szene": "Kollegin hält einen zerknitterten Kassenzettel hoch"
+     }
+    ],
+    "fehler": [
+     {
+      "text_im_bild": "Diesen Fehler sehen wir in fast jeder Nebenkostenabrechnung.",
+      "szene": "Abrechnung mit markierter Stelle, ohne echte Namen"
+     },
+     {
+      "text_im_bild": "Das passiert, wenn die Haftpflicht der Eltern nach der Ausbildung nicht mehr gilt.",
+      "szene": "Kurze nachgestellte Szene, dann Erklärung"
+     }
+    ],
+    "trend": [
+     {
+      "text_im_bild": "Wir haben unseren Chef gebeten, Steuerbegriffe in Jugendsprache zu erklären.",
+      "szene": "Chef liest Begriffe vor und scheitert freundlich"
+     },
+     {
+      "text_im_bild": "Unser Team zeigt euch, wie die Kanzlei um sieben Uhr morgens aussieht.",
+      "szene": "Kurze Szenen vom Aufschließen bis zum ersten Kaffee"
+     }
+    ],
+    "meinung": [
+     {
+      "text_im_bild": "Wir finden, dass Steuerberatung nicht langweilig sein muss.",
+      "szene": "Kollegin am Schreibtisch, spricht direkt in die Kamera"
+     },
+     {
+      "text_im_bild": "Eine gute Hausverwaltung merkt man daran, dass man sie fast nie braucht.",
+      "szene": "Treppenhaus, Hausmeister, ruhiger Sprechtext"
+     }
+    ],
+    "figur": [
+     {
+      "text_im_bild": "Unsere Azubine erklärt euch jede Woche einen Begriff aus dem Büroalltag.",
+      "szene": "Begriff im Bild, Erklärung in einem Satz"
+     },
+     {
+      "text_im_bild": "Ihr habt gefragt, wer eigentlich bei uns ans Telefon geht, und das ist Maria.",
+      "szene": "Maria winkt, kurze Szenen aus ihrem Tag"
+     }
+    ],
+    "test": [
+     {
+      "text_im_bild": "Wir haben getestet, welcher Reiniger auf Parkett wirklich nichts kaputt macht.",
+      "szene": "Drei Flaschen, drei Stellen, Ergebnis im Bild"
+     },
+     {
+      "text_im_bild": "Wie lange dauert eine Wohnungsübergabe bei uns wirklich? Wir haben die Zeit gestoppt.",
+      "szene": "Stoppuhr im Bild, Zeitraffer"
+     }
+    ]
+   }
+  },
+  "gastro_lebensmittel": {
+   "name": "Bäckerei, Metzgerei, Restaurant, Hotel, Café",
+   "einstiege": {
+    "pov": [
+     {
+      "text_im_bild": "POV: Es ist dein erster Tag an der Theke, und alle wollen gleichzeitig bestellen",
+      "szene": "Neue Kollegin schaut über eine lange Schlange"
+     },
+     {
+      "text_im_bild": "POV: Du hast das letzte Croissant verkauft, und hinter dir steht der Stammkunde",
+      "szene": "Verkäuferin dreht sich langsam um"
+     }
+    ],
+    "typ": [
+     {
+      "text_im_bild": "Wir kennen alle einen Gast, der jedes Mal fragt, was heute gut ist",
+      "szene": "Kellner zeigt auf die ganze Karte"
+     },
+     {
+      "text_im_bild": "In jeder Backstube gibt es einen, der um drei Uhr nachts schon gute Laune hat",
+      "szene": "Bäcker singt beim Teigkneten"
+     }
+    ],
+    "mitrede": [
+     {
+      "text_im_bild": "Wie heißt dieses Brötchen bei euch? Semmel, Weck, Schrippe oder ganz anders?",
+      "szene": "Brötchen in Nahaufnahme, Hand bricht es auf"
+     },
+     {
+      "text_im_bild": "Was bestellt ihr bei uns immer, egal was auf der Karte steht?",
+      "szene": "Theke von oben, Hände zeigen auf verschiedene Teile"
+     }
+    ],
+    "fehler": [
+     {
+      "text_im_bild": "Daran erkennt ihr, ob ein Croissant wirklich frisch ist.",
+      "szene": "Zwei Croissants nebeneinander, Bruchkante in Nahaufnahme"
+     },
+     {
+      "text_im_bild": "Das passiert, wenn der Teig zu kurz ruht.",
+      "szene": "Teig im Vergleich, Ergebnis aus dem Ofen"
+     }
+    ],
+    "trend": [
+     {
+      "text_im_bild": "Unsere Chefin bewertet die Brotkreationen der Azubis.",
+      "szene": "Chefin probiert und hält Schilder mit Noten hoch"
+     },
+     {
+      "text_im_bild": "Wir zeigen euch, was um vier Uhr morgens bei uns schon passiert ist.",
+      "szene": "Kurze Szenen in der Backstube, Uhrzeit im Bild"
+     }
+    ],
+    "meinung": [
+     {
+      "text_im_bild": "Ihr fragt, warum unser Brot mehr kostet? Weil der Teig hier noch 24 Stunden ruht.",
+      "szene": "Teig ruht, Bäcker erklärt ruhig"
+     },
+     {
+      "text_im_bild": "Ihr findet Kinder im Restaurant anstrengend? Wir sehen das ein bisschen anders.",
+      "szene": "Familientisch, Kinderteller, ruhiger Sprechtext"
+     }
+    ],
+    "figur": [
+     {
+      "text_im_bild": "Jasmin nimmt euch heute mit in die Frühschicht.",
+      "szene": "Jasmin schließt auf, kurze Szenen bis zur Öffnung"
+     },
+     {
+      "text_im_bild": "Unser Koch beantwortet jede Woche eine Frage aus den Kommentaren.",
+      "szene": "Frage im Bild, Antwort am Herd"
+     }
+    ],
+    "test": [
+     {
+      "text_im_bild": "Wie viele Schichten hat unser Croissant wirklich? Ratet mal, bevor wir zählen.",
+      "szene": "Croissant wird aufgeschnitten, Zählung im Bild"
+     },
+     {
+      "text_im_bild": "Wie lange bleibt unser Brot wirklich frisch? Ratet mal, wir haben fünf Tage getestet.",
+      "szene": "Tag eins bis Tag fünf, gleicher Anschnitt"
+     }
+    ]
+   }
+  },
+  "gesundheit_handel": {
+   "name": "Apotheke, Physiotherapie, Optiker, Einzelhandel, Bestattung",
+   "einstiege": {
+    "pov": [
+     {
+      "text_im_bild": "POV: Jemand fragt nach dem Mittel aus der Werbung, aber weiß den Namen nicht mehr",
+      "szene": "Mitarbeiterin hört geduldig zu, Kunde summt die Melodie"
+     },
+     {
+      "text_im_bild": "POV: Der Patient sagt, er hat die Übungen jeden Tag gemacht",
+      "szene": "Therapeutin schaut skeptisch in die Kamera"
+     }
+    ],
+    "typ": [
+     {
+      "text_im_bild": "Wir kennen alle jemanden, der Kopfschmerzen mit noch mehr Kaffee behandelt",
+      "szene": "Kollege trinkt Kaffee, hält sich den Kopf"
+     },
+     {
+      "text_im_bild": "Jede Praxis hat einen Patienten, der immer zehn Minuten zu früh da ist",
+      "szene": "Wartezimmer, eine Person sitzt schon"
+     }
+    ],
+    "mitrede": [
+     {
+      "text_im_bild": "Wie nennt ihr das Ding, mit dem man Tabletten teilt?",
+      "szene": "Tablettenteiler in Nahaufnahme"
+     },
+     {
+      "text_im_bild": "Welche Übung hasst ihr beim Physio am meisten?",
+      "szene": "Therapeutin zeigt drei Übungen hintereinander"
+     }
+    ],
+    "fehler": [
+     {
+      "text_im_bild": "Diese Übung machen fast alle von euch falsch, und ihr merkt es nicht mal.",
+      "szene": "Falsch, dann richtig, im direkten Vergleich"
+     },
+     {
+      "text_im_bild": "Das solltet ihr nie zusammen einnehmen, ohne vorher zu fragen.",
+      "szene": "Allgemeiner Hinweis, Verweis auf Beratung vor Ort"
+     }
+    ],
+    "trend": [
+     {
+      "text_im_bild": "Stimmt dieser Tipp aus dem Internet? Unsere Apothekerin sagt es euch ehrlich.",
+      "szene": "Tipp im Bild, Reaktion und kurze Einordnung"
+     },
+     {
+      "text_im_bild": "Wir haben unsere Azubis gefragt, was sie an ihrem Beruf überrascht hat.",
+      "szene": "Kurze Antworten hintereinander"
+     }
+    ],
+    "meinung": [
+     {
+      "text_im_bild": "Wann habt ihr zuletzt mit jemandem über den Tod gesprochen? Bei uns ist das jeden Tag Alltag.",
+      "szene": "Ruhige Aufnahme, Bestatterin spricht in die Kamera"
+     },
+     {
+      "text_im_bild": "Wer kennt das: Man googelt eine Frage und hat danach drei neue?",
+      "szene": "Beratungsgespräch von hinten, keine Kundengesichter"
+     }
+    ],
+    "figur": [
+     {
+      "text_im_bild": "Ihr habt uns gefragt, wer eigentlich Luca ist. Hier ist die Antwort.",
+      "szene": "Luca winkt, kurze Szenen aus seinem Tag"
+     },
+     {
+      "text_im_bild": "Unsere Therapeutin zeigt euch jede Woche eine Übung für den Büroalltag.",
+      "szene": "Übung am Schreibtisch, Zähler im Bild"
+     }
+    ],
+    "test": [
+     {
+      "text_im_bild": "Wir haben getestet, welche Sonnencreme nach dem Schwimmen noch hält.",
+      "szene": "Arm mit UV-Karte, vorher und nachher"
+     },
+     {
+      "text_im_bild": "Wie lange hält dieses Tape wirklich? Wir haben es ausprobiert.",
+      "szene": "Tape am Knie, Tag eins bis Tag drei"
+     }
+    ]
+   }
+  }
+ }
+}

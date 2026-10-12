@@ -1,0 +1,9 @@
+{
+  "name": "pinmie-content-assistent",
+  "version": "1.0.0",
+  "description": "Instagram-Assistent für Firmen: Reels, Captions, Kommentare, Wochenplan, Auswertung und Rechts-Check. Kostenlos von PINMIE.",
+  "author": { "name": "PINMIE", "url": "https://pinmie.de" },
+  "homepage": "https://pinmie.de",
+  "license": "CC-BY-NC-ND-4.0",
+  "keywords": ["instagram", "social media", "firmen", "handwerk", "reels", "deutsch"]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pinmie",
+  "owner": { "name": "PINMIE", "url": "https://pinmie.de" },
+  "plugins": [
+    {
+      "name": "pinmie-content-assistent",
+      "source": "./",
+      "description": "Instagram-Assistent für Firmen: Reels, Captions, Kommentare, Wochenplan, Auswertung und Rechts-Check."
+    }
+  ]
+}
