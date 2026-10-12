@@ -9,18 +9,18 @@ Grundlage ist eine Auswertung von rund 560 Reels deutscher Firmenkonten (Oktober
 ## Installieren
 
 **Claude (claude.ai oder Desktop-App)**
-1. Oben auf „Code“ und dann auf „Download ZIP“ klicken, oder die Datei `pinmie-content-assistent.zip` unter „Releases“ laden.
-2. In Claude unter Einstellungen bei den Skills die ZIP-Datei mit dem Ordner `skills/pinmie-content-assistent` hochladen.
+1. Die Datei [`download/pinmie-content-assistent.zip`](download/pinmie-content-assistent.zip) öffnen und rechts auf das Download-Symbol klicken.
+2. In Claude unter Einstellungen bei den Skills diese ZIP-Datei hochladen (nicht entpacken).
 3. Einen neuen Chat starten und schreiben: „Hilf mir mit unserem Instagram.“
 
 **Claude Code**
 ```
-/plugin marketplace add pinmie/pinmie-content-assistent
+/plugin marketplace add stephtako/pinmie-content-assistent
 /plugin install pinmie-content-assistent@pinmie
 ```
 
 **ChatGPT oder ein anderes KI-Tool**
-Den Text aus `kopiervorlage/PINMIE Content-Assistent Kopiervorlage.md` in die Anweisungen eines eigenen GPTs
+Den Text aus [`kopiervorlage/PINMIE Content-Assistent Kopiervorlage.md`](kopiervorlage/PINMIE%20Content-Assistent%20Kopiervorlage.md) in die Anweisungen eines eigenen GPTs
 oder Projekts einfügen.
 
 ## Hinweise
