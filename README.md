@@ -15,7 +15,7 @@ Grundlage ist eine Auswertung von rund 560 Reels deutscher Firmenkonten (Oktober
 
 **Claude Code**
 ```
-/plugin marketplace add stephtako/pinmie-content-assistent
+/plugin marketplace add pinmie-de/pinmie-content-assistent
 /plugin install pinmie-content-assistent@pinmie
 ```
 
